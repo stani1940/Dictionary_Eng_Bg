@@ -2,27 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="708d5a0f-bc2c-4a49-9f82-0b6af739538f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionary_Eng_BG.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/TestClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/TestClass1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/eng_flag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/flag_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreateDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestClass1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/eng_flag.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/flag_bg.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreateDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreateDictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +28,7 @@
     <session id="1344677156">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
@@ -43,20 +36,21 @@
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.34" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="TestClass1" value="10" />
-          <entry key="java" value="3204" />
-          <entry key="txt" value="26" />
+          <entry key="java" value="3482" />
+          <entry key="txt" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3204" />
-          <entry key="PLAIN_TEXT" value="36" />
+          <entry key="JAVA" value="3482" />
+          <entry key="PLAIN_TEXT" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -87,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CreateDictionary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-271">
-              <caret line="111" column="23" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="56" />
+            <state relative-caret-position="145">
+              <caret line="156" column="13" lean-forward="true" selection-start-line="156" selection-start-column="13" selection-end-line="156" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            <state>
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -124,7 +118,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TestClass1">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
+            <state relative-caret-position="108">
               <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
             </state>
           </provider>
@@ -150,9 +144,9 @@
         <option value="$PROJECT_DIR$/src/TestClass.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/Iandex.java" />
-        <option value="$PROJECT_DIR$/src/test.txt" />
         <option value="$PROJECT_DIR$/src/TestClass1" />
         <option value="$PROJECT_DIR$/src/TextDemo.java" />
+        <option value="$PROJECT_DIR$/src/test.txt" />
         <option value="$PROJECT_DIR$/src/CreateDictionary.java" />
       </list>
     </option>
@@ -175,7 +169,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,11 +187,11 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547303107027" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547315511994" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -277,12 +271,28 @@
       <option name="presentableId" value="Default" />
       <updated>1545819553289</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1547303021005</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547303021005</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init commit">
+      <created>1547303078892</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547303078892</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17327935" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1757085" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -291,13 +301,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291815" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49878544" visible="true" weight="0.3291815" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50121456" side_tool="true" weight="0.3291815" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3291815" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -312,6 +322,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/event/ActionListener.java">
@@ -332,13 +346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestClass1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -350,20 +357,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CreateDictionary.java">
+    <entry file="file://$PROJECT_DIR$/src/TestClass1">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-271">
-          <caret line="111" column="23" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="108">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CreateDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="156" column="13" lean-forward="true" selection-start-line="156" selection-start-column="13" selection-end-line="156" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
