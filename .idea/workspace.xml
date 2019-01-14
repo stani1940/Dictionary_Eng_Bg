@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="708d5a0f-bc2c-4a49-9f82-0b6af739538f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestClass1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/eng_flag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flag_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CreateDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreateDictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,40 +24,43 @@
     <session id="1344677156">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
-          <entry key="project.open.time.0" value="3" />
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="TestClass1" value="10" />
-          <entry key="java" value="3482" />
-          <entry key="txt" value="38" />
+          <entry key="java" value="4204" />
+          <entry key="txt" value="218" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3482" />
-          <entry key="PLAIN_TEXT" value="48" />
+          <entry key="JAVA" value="4204" />
+          <entry key="PLAIN_TEXT" value="228" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="5" />
+          <entry key="java" value="6" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="6" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -72,8 +71,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="32" column="1" selection-start-line="8" selection-start-column="5" selection-end-line="32" selection-end-column="1" />
+            <state relative-caret-position="135">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,8 +83,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CreateDictionary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="156" column="13" lean-forward="true" selection-start-line="156" selection-start-column="13" selection-end-line="156" selection-end-column="13" />
+            <state relative-caret-position="194">
+              <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,8 +95,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="4" selection-start-column="4" selection-end-column="4" />
+            <state relative-caret-position="3564">
+              <caret line="132" column="6" selection-start-line="132" selection-start-column="6" selection-end-line="132" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -105,8 +104,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="8" column="5" selection-start-line="3" selection-start-column="42" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="216">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#70#71#0" expanded="true" />
                 <element signature="e#121#122#0" expanded="true" />
@@ -142,11 +141,12 @@
       <list>
         <option value="$PROJECT_DIR$/src/dictionary1Class.java" />
         <option value="$PROJECT_DIR$/src/TestClass.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/Iandex.java" />
         <option value="$PROJECT_DIR$/src/TestClass1" />
         <option value="$PROJECT_DIR$/src/TextDemo.java" />
+        <option value="$USER_HOME$/Downloads/Telegram Desktop/CreateDictionary.java" />
         <option value="$PROJECT_DIR$/src/test.txt" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/CreateDictionary.java" />
       </list>
     </option>
@@ -191,7 +191,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547315511994" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547507360556" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -253,9 +253,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.CreateDictionary" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.TextDemo" />
         <item itemvalue="Application.Iandex" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.BonusPoints" />
       </list>
     </recent_temporary>
@@ -285,14 +285,28 @@
       <option name="project" value="LOCAL" />
       <updated>1547303078892</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add flag orientation">
+      <created>1547326092707</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547326092707</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add font style and size">
+      <created>1547327171927</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1547327171927</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1757085" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18866397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -325,7 +339,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="Add flag orientation" />
+    <MESSAGE value="Add font style and size" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add font style and size" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/event/ActionListener.java">
@@ -336,20 +352,34 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/New folder/HW5_ConditionalConstructionsPart2/src/BonusPoints.java" />
+    <entry file="file://$USER_HOME$/Downloads/Telegram Desktop/CreateDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="112" column="36" selection-start-line="112" selection-start-column="36" selection-end-line="112" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="32" column="1" selection-start-line="8" selection-start-column="5" selection-end-line="32" selection-end-column="1" />
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3564">
+          <caret line="132" column="6" selection-start-line="132" selection-start-column="6" selection-end-line="132" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="8" column="5" selection-start-line="3" selection-start-column="42" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="216">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#70#71#0" expanded="true" />
             <element signature="e#121#122#0" expanded="true" />
@@ -364,17 +394,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CreateDictionary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="156" column="13" lean-forward="true" selection-start-line="156" selection-start-column="13" selection-end-line="156" selection-end-column="13" />
+        <state relative-caret-position="194">
+          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
