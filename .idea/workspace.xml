@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="708d5a0f-bc2c-4a49-9f82-0b6af739538f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CreateDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreateDictionary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.txt" afterDir="false" />
@@ -24,32 +18,33 @@
     <session id="1344677156">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="TestClass1" value="10" />
-          <entry key="java" value="4204" />
-          <entry key="txt" value="218" />
+          <entry key="java" value="4301" />
+          <entry key="txt" value="233" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4204" />
-          <entry key="PLAIN_TEXT" value="228" />
+          <entry key="JAVA" value="4301" />
+          <entry key="PLAIN_TEXT" value="243" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -83,8 +78,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CreateDictionary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+            <state relative-caret-position="27">
+              <caret line="97" column="29" lean-forward="true" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/src/test.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3564">
-              <caret line="132" column="6" selection-start-line="132" selection-start-column="6" selection-end-line="132" selection-end-column="6" />
+              <caret line="135" column="6" selection-start-line="135" selection-start-column="6" selection-end-line="135" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -169,6 +164,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -186,12 +183,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547507360556" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547507499430" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -299,14 +294,21 @@
       <option name="project" value="LOCAL" />
       <updated>1547327171927</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fix Gui Design">
+      <created>1547507511349</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1547507511349</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18866397" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19190283" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -341,7 +343,8 @@
     <MESSAGE value="init commit" />
     <MESSAGE value="Add flag orientation" />
     <MESSAGE value="Add font style and size" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add font style and size" />
+    <MESSAGE value="Fix Gui Design" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix Gui Design" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/event/ActionListener.java">
@@ -372,7 +375,7 @@
     <entry file="file://$PROJECT_DIR$/src/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3564">
-          <caret line="132" column="6" selection-start-line="132" selection-start-column="6" selection-end-line="132" selection-end-column="6" />
+          <caret line="135" column="6" selection-start-line="135" selection-start-column="6" selection-end-line="135" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -396,8 +399,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CreateDictionary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        <state relative-caret-position="27">
+          <caret line="97" column="29" lean-forward="true" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
