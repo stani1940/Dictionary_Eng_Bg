@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="708d5a0f-bc2c-4a49-9f82-0b6af739538f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/CreateDictionary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary_Eng_BG/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CreateDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreateDictionary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,14 +36,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="TestClass1" value="10" />
-          <entry key="java" value="4434" />
-          <entry key="txt" value="260" />
+          <entry key="java" value="4438" />
+          <entry key="txt" value="272" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4434" />
-          <entry key="PLAIN_TEXT" value="270" />
+          <entry key="JAVA" value="4438" />
+          <entry key="PLAIN_TEXT" value="282" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -84,8 +77,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CreateDictionary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="166" column="32" selection-start-line="166" selection-start-column="32" selection-end-line="166" selection-end-column="32" />
+            <state relative-caret-position="54">
+              <caret line="50" column="59" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -192,7 +185,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547654126240" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547654586040" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -314,14 +307,21 @@
       <option name="project" value="LOCAL" />
       <updated>1547560018985</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fix arrows">
+      <created>1547654368287</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1547654368287</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15708502" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15708502" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -330,7 +330,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49878544" visible="true" weight="0.3291815" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49878544" visible="true" weight="0.3291815" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -358,7 +358,8 @@
     <MESSAGE value="Add font style and size" />
     <MESSAGE value="Fix Gui Design" />
     <MESSAGE value="add clear text area" />
-    <option name="LAST_COMMIT_MESSAGE" value="add clear text area" />
+    <MESSAGE value="fix arrows" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix arrows" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/event/ActionListener.java">
@@ -413,8 +414,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CreateDictionary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="166" column="32" selection-start-line="166" selection-start-column="32" selection-end-line="166" selection-end-column="32" />
+        <state relative-caret-position="54">
+          <caret line="50" column="59" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
