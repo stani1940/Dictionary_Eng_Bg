@@ -12,6 +12,7 @@ nay	Нещо повече
 abruptly Рязко
 bend Завой
 bump Подутина
+bay залив
 frown	Намръщвам се
 brand Марка
 clamp Скоба
@@ -97,6 +98,7 @@ cough Кашлица
 associate Сътрудник
 bruise Натъртване
 lest	Да не би да
+red червен
 biggest Най-големият
 bark Кора
 clue Улика
@@ -118,6 +120,7 @@ chuckle Кудкудякане
 accompany Придружи
 ache Болка
 bob Боб
+обичам love
 background Фон
 crow Врана
 aloud На глас
