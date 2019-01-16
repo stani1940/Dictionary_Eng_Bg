@@ -5,8 +5,10 @@ import java.io.*;
 import java.util.*;
 import java.util.Scanner;
 public class Main {
-
-    public static HashMap<String, String> main(String[] args) throws Exception {
+    public static void main(String[] args) throws Exception {
+                readmap();
+    }
+    static HashMap<String, String>readmap () throws Exception {
         Scanner file = new Scanner(new File("src/test.txt"), "UTF-8");
         HashMap<String, String> map = new HashMap<String, String>();
 

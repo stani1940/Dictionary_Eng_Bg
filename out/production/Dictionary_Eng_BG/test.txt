@@ -8,20 +8,19 @@ axe Брадва
 cheese Сирене
 consist Състои
 agony Агония
-nay	Нещо повече
 abruptly Рязко
 bend Завой
 bump Подутина
+struggling Борещ се
 bay залив
-frown	Намръщвам се
 brand Марка
 clamp Скоба
 addition Допълнение
 crown Корона
 banger Пушка
 choke Давя
-trait	Характерна черта
 audience Публика
+hidе Крия
 collar Яка
 apt Подходящ
 cookie Бисквитка
@@ -37,6 +36,7 @@ baker Пекар
 analysis Анализ
 crossing Пресичане
 announce Обявя
+venture Осмелявам се
 airport Летище
 blowing Продухване
 coast Крайбрежие
@@ -59,12 +59,13 @@ admire Признавам
 crew Екипаж
 confess Признавам
 civil Граждански
-near	Близо до
-hay	    Сено
+near Близо до
+hay Сено
 civilian Цивилен
 camera Камера
 belief Вярване
 bundle Пакет
+hand ръка
 barrel Барел
 chip Чип
 consequence Последица
@@ -81,6 +82,7 @@ absolute Абсолютен
 clap Плясък
 moonlight	Лунна светлина
 ash пепел
+curiously любопитство
 behaviour Поведение
 arch Арка
 bunk Легло
@@ -120,7 +122,7 @@ chuckle Кудкудякане
 accompany Придружи
 ache Болка
 bob Боб
-обичам love
+love обичам
 background Фон
 crow Врана
 aloud На глас
@@ -128,30 +130,25 @@ crawling Лазейки
 arose Възникнало
 collect Събирам
 cloth Кърпа
+gear скорост
 brightly Бляскаво
 awaken Събуждам
 capable Способен
 burden Тежест
 crouch Свиване
-curiously	С любопитство
 alert Тревога
 billion Милиард
-hid	    Скри
 bath Баня
-census	Преоброяване на население
-gear	Зъбно колело
 album Албум
 assistant Асистент
+frown Намръщвам се
 argue Споря
 awe Страхопочитание
 cheer Ура
 crap Глупости
 acknowledge Признавам
 build Строя
-struggling	Борещ се
 bony Костелив
-sunshine	Слънчева светлина
 betray Издавам
 cancer Рак
 astonish Учудвам
-venture	Осмелявам се
