@@ -8,11 +8,13 @@ axe Брадва
 cheese Сирене
 consist Състои
 agony Агония
+eastward На изток
 abruptly Рязко
 bend Завой
 bump Подутина
 struggling Борещ се
 bay залив
+near Близо до
 brand Марка
 clamp Скоба
 addition Допълнение
@@ -31,7 +33,6 @@ active Активен
 amaze Смайвам
 birth Раждане
 come Идвам
-standpipe	Ветикална тръба
 baker Пекар
 analysis Анализ
 crossing Пресичане
@@ -40,18 +41,17 @@ venture Осмелявам се
 airport Летище
 blowing Продухване
 coast Крайбрежие
-occasionally	От време на време
-daylight	Дневна светлина
+daylight Дневна светлина
 charming Очарователен
-eastward	На изток
 acquainted Запознат
 butt Мишена
 corpse Труп
 acting Актьорско майсторство
 largely	До голяма степен
+love обичам
 compare Сравнение
 access Достъп
-sunlight	Слънчева светлина
+cut режа
 artist Художник
 cliff Стръмна скала
 confident Уверен
@@ -59,8 +59,7 @@ admire Признавам
 crew Екипаж
 confess Признавам
 civil Граждански
-near Близо до
-hay Сено
+occasionally От време на време
 civilian Цивилен
 camera Камера
 belief Вярване
@@ -78,6 +77,7 @@ actor Актьор
 environment	Околна среда
 admiration Възхищение
 bacon Бекон
+sunlight Слънчева светлина
 absolute Абсолютен
 clap Плясък
 moonlight	Лунна светлина
@@ -105,9 +105,10 @@ biggest Най-големият
 bark Кора
 clue Улика
 ﻿abandoned Изоставен
-bear мечка
+bear мече
 bureau Офис
 climbing Изкачване
+hay Сено
 catching Ловене
 citizen Гражданин
 beard Брада
@@ -121,8 +122,8 @@ anxiety Безпокойство
 chuckle Кудкудякане
 accompany Придружи
 ache Болка
+knife нож
 bob Боб
-love обичам
 background Фон
 crow Врана
 aloud На глас
@@ -136,12 +137,14 @@ awaken Събуждам
 capable Способен
 burden Тежест
 crouch Свиване
+apple ябълка
 alert Тревога
 billion Милиард
 bath Баня
 album Албум
 assistant Асистент
 frown Намръщвам се
+standpipe Вертикална тръба
 argue Споря
 awe Страхопочитание
 cheer Ура
